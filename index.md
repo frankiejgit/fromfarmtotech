@@ -5,5 +5,3 @@
 layout: home
 ---
 
-# From Farm to Tech 
-### (and anything else in between)
